@@ -41,7 +41,7 @@ header:
       [:title "Bootstrapped Example"]
       (include-bootstrap)]
     [:body
-      [:h1 "Bootstrapped Example"]
+      [:h1 "Bootstrapped Example"]]))
 ```
 
 ## License
