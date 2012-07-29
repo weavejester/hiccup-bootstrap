@@ -10,7 +10,7 @@ Hiccup-Bootstrap provides [Hiccup][1] functions for Twitter's
 
 Add the following dependency to your `project.clj` file:
 
-    [hiccup-bootstrap "0.1.0"]
+    [hiccup-bootstrap "0.1.1"]
 
 Note that if you're using Ring, you'll need version 1.1.0 or later.
 
