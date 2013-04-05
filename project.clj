@@ -1,4 +1,4 @@
-(defproject hiccup-bootstrap "0.1.1"
+(defproject hiccup-bootstrap "0.1.2"
   :description "Hiccup functions for Twitter's Bootstrap"
   :url "https://github.com/weavejester/hiccup-bootstrap"
   :license {:name "Eclipse Public License"
